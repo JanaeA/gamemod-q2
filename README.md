@@ -2,7 +2,7 @@
 # Quake 2 Project
 
 Overview:
-The object of this game mod is to add features found in the famous team-based shooter game: Overwatch. Although the multiplayer ability could not be implemented, other aspects were included. These features are mentioned below. This mod pack requires the mod pack folder with custom .def and .gui files.\
+The object of this game mod is to add features found in the famous team-based shooter game: Overwatch. These features are mentioned below. This mod pack requires the mod pack folder with the gamex86.dll file.
 
 Personal Deliverables
 - Create 3 overwatch heroes with special abilities and weapons (class and weapons)
